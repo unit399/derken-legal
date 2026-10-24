@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <!-- App icon, full bleed (iOS and the store listing). The door is ajar; its light forks on the floor.
+       The light is one path, from the gap in the doorway down both beams (see README, "Ölçüler"). -->
+  <rect width="1024" height="1024" fill="#211A12"/>
+  <path d="M351 690V420A161 161 0 0 1 673 420V690Z" fill="#C4AA8F"/>
+  <path d="M387 690V420A125 125 0 0 1 555 302.6V690Z" fill="#46392A"/>
+  <path d="M555 690V302.6A125 125 0 0 1 637 420V690L730 1024H637L600 690H592L555 1024H470Z" fill="#E6E1D7"/>
+</svg>
